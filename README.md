@@ -204,7 +204,7 @@ The dashboard shows the following verified insights:
 
 ## AI-Assisted Reporting
 
-AI was used as a reporting assistant to help summarize verified Power BI dashboard metrics into concise business language.
+AI was used as a reporting assistant to help summarize and refine verified dashboard metrics into concise business language. The final insights and recommendations were reviewed and approved by the analyst before being included in the project.
 
 The AI assistant was not used to clean, modify, or calculate the dataset. All calculations were completed using pandas or Power BI measures, and insights were based only on verified dashboard outputs.
 
