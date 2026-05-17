@@ -10,15 +10,12 @@ The goal of this project was to transform multiple related raw data files into a
 
 The Power BI dashboard contains three report pages: Executive Sales Overview, Product And Returned Items Analysis, and Customer And Geography Analysis.
 
-### Executive Sales Overview
 
 ![Executive Sales Overview Screenshot](powerbi/Screenshot%202026-05-16%20170958.png)
 
-### Product And Returned Items Analysis
 
 ![Product And Returned Items Analysis Screenshot](powerbi/Screenshot%202026-05-16%20171042.png)
 
-### Customer And Geography Analysis
 
 ![Customer And Geography Analysis Screenshot](powerbi/Screenshot%202026-05-16%20171106.png)
 
